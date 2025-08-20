@@ -158,7 +158,7 @@ with st.form("calc", clear_on_submit=False, border=True):
             min_value=0.0,
             max_value=1000.0,
             value=110.0,
-            step=1.0,
+            step=10.0,
             help="Valor atual informado pelo Libre"
         )
     with col2:
