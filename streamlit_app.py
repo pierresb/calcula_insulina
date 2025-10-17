@@ -135,7 +135,7 @@ def calcular(bg_mgdl: float, trend: Trend) -> CalcOut:
 
 # ------------------------------ UI ------------------------------ #
 
-st.set_page_config(page_title="Calcula Insulina — Protocolo", page_icon="💉", layout="centered")
+st.set_page_config(page_title="Calcula Insulina — Protocolo", page_icon="logo.ico", layout="centered")
 
 st.title("💉 Calcula Insulina — protocolo + tendência")
 st.caption(
